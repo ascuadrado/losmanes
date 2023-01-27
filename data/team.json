@@ -1,1 +1,160 @@
-{"SEUL":[{"nombre":"Berto 3G","puesto":"CEO, CTO y CFO","foto":"team-1.jpg","verified":true,"cat1":0,"cat2":0,"cat3":0,"balls":0,"fire":0,"coche":0},{"nombre":"Enamorao","puesto":"Chief Chief","foto":"team-2.jpg","verified":true,"cat1":0,"cat2":0,"cat3":0,"bonus":0,"balls":0,"fire":0,"coche":0},{"nombre":"Catalejos","puesto":"Chief Persuador","foto":"team-7.jpg","verified":true,"cat1":0,"cat2":0,"cat3":0,"bonus":0,"balls":0,"fire":0,"coche":0},{"nombre":"Bacano de Caaguaz\u00fa","puesto":"Chief Negro","foto":"team-8.jpg","verified":true,"cat1":0,"cat2":0,"cat3":0,"bonus":0,"balls":0,"fire":0,"coche":0}],"TTU":[{"nombre":"Canallita","puesto":"Chief Vatios Officer","foto":"team-3.jpg","verified":true,"cat1":0,"cat2":0,"cat3":1,"bonus":0,"balls":0,"fire":0,"coche":0},{"nombre":"King","puesto":"Proveedor de Cuervo","foto":"team-6.jpg","verified":true,"cat1":0,"cat2":1,"cat3":1,"bonus":0,"balls":0,"fire":0,"coche":0},{"nombre":"Pacorro","puesto":"Chief Churrero Officer","foto":"team-9.jpg","verified":true,"cat1":0,"cat2":0,"cat3":0,"bonus":0,"balls":0,"fire":0,"coche":0},{"nombre":"OrtePower","puesto":"Chief ZurracapoteMAN","foto":"IMG_2816.jpeg","verified":false,"cat1":1,"cat2":2,"cat3":2,"bonus":0,"balls":0,"fire":0,"coche":0},{"nombre":"Chester","puesto":"Andale cabron","foto":"team-12.jpg","verified":false,"cat1":0,"cat2":0,"cat3":2,"bonus":0,"balls":0,"fire":0,"coche":0}],"Other":[{"nombre":"Relas","puesto":"Public relations","foto":"team-4.jpg","verified":true},{"nombre":"Sarandonga","puesto":"Pitubidi Pitubidi","foto":"sagar.jpg","verified":true},{"nombre":"Cobras","puesto":"Off-Cycle man","foto":"team-11.jpg","verified":false}]}
+{
+  "SEUL": [
+    {
+      "nombre": "Berto 3G",
+      "puesto": "CEO, CTO y CFO",
+      "foto": "team-1.jpg",
+      "verified": true,
+      "cat1": 0,
+      "cat2": 0,
+      "cat3": 0,
+      "balls": 0,
+      "fire": 0,
+      "coche": 0
+    },
+    {
+      "nombre": "Enamorao",
+      "puesto": "Chief Chief",
+      "foto": "team-2.jpg",
+      "verified": true,
+      "cat1": 0,
+      "cat2": 0,
+      "cat3": 0,
+      "bonus": 0,
+      "balls": 0,
+      "fire": 0,
+      "coche": 0
+    },
+    {
+      "nombre": "Catalejos",
+      "puesto": "Chief Persuador",
+      "foto": "team-7.jpg",
+      "verified": true,
+      "cat1": 0,
+      "cat2": 0,
+      "cat3": 0,
+      "bonus": 0,
+      "balls": 0,
+      "fire": 0,
+      "coche": 0
+    },
+    {
+      "nombre": "Bacano de Caaguazú",
+      "puesto": "Chief Negro",
+      "foto": "team-8.jpg",
+      "verified": true,
+      "cat1": 0,
+      "cat2": 0,
+      "cat3": 0,
+      "bonus": 0,
+      "balls": 0,
+      "fire": 0,
+      "coche": 0
+    }
+  ],
+  "TTU": [
+    {
+      "nombre": "Canallita",
+      "puesto": "Chief Vatios Officer",
+      "foto": "team-3.jpg",
+      "verified": true,
+      "cat1": 0,
+      "cat2": 0,
+      "cat3": 1,
+      "bonus": 0,
+      "balls": 0,
+      "fire": 0,
+      "coche": 0
+    },
+    {
+      "nombre": "King",
+      "puesto": "Proveedor de Cuervo",
+      "foto": "team-6.jpg",
+      "verified": true,
+      "cat1": 0,
+      "cat2": 1,
+      "cat3": 1,
+      "bonus": 0,
+      "balls": 0,
+      "fire": 0,
+      "coche": 0
+    },
+    {
+      "nombre": "Pacorro",
+      "puesto": "Chief Churrero Officer",
+      "foto": "team-9.jpg",
+      "verified": true,
+      "cat1": 0,
+      "cat2": 0,
+      "cat3": 0,
+      "bonus": 0,
+      "balls": 0,
+      "fire": 0,
+      "coche": 0
+    },
+    {
+      "nombre": "OrtePower",
+      "puesto": "Chief ZurracapoteMAN",
+      "foto": "IMG_2816.jpeg",
+      "verified": false,
+      "cat1": 1,
+      "cat2": 2,
+      "cat3": 2,
+      "bonus": 0,
+      "balls": 0,
+      "fire": 0,
+      "coche": 0
+    },
+    {
+      "nombre": "Chester",
+      "puesto": "Andale cabron",
+      "foto": "team-12.jpg",
+      "verified": false,
+      "cat1": 0,
+      "cat2": 0,
+      "cat3": 2,
+      "bonus": 0,
+      "balls": 0,
+      "fire": 0,
+      "coche": 0
+    }
+  ],
+  "Other": [
+    {
+      "nombre": "Relas",
+      "puesto": "Public relations",
+      "foto": "team-4.jpg",
+      "verified": true,
+      "cat1": 0,
+      "cat2": 0,
+      "cat3": 0,
+      "balls": 0,
+      "fire": 0,
+      "coche": 0
+    },
+    {
+      "nombre": "Sarandonga",
+      "puesto": "Pitubidi Pitubidi",
+      "foto": "sagar.jpg",
+      "verified": true,
+      "cat1": 0,
+      "cat2": 0,
+      "cat3": 0,
+      "balls": 0,
+      "fire": 0,
+      "coche": 1
+    },
+    {
+      "nombre": "Cobras",
+      "puesto": "Off-Cycle man",
+      "foto": "team-11.jpg",
+      "verified": false,
+      "cat1": 0,
+      "cat2": 0,
+      "cat3": 0,
+      "balls": 0,
+      "fire": 0,
+      "coche": 0
+    }
+  ]
+}
