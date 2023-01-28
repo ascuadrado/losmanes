@@ -25,14 +25,6 @@
       </div>
     </section><!-- End Breadcrumbs -->
 
-    <section class="inner-page">
-      <div class="container">
-        <h1>Resumen de la sección</h1>
-        <p>Sección para conocer a los manes</p>
-
-      </div>
-    </section>
-    
     <!-- ======= Team Section ======= -->
     <?php include ('team-section.php'); ?><!-- End Team Section -->
 

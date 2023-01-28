@@ -14,7 +14,7 @@ $members = array_merge($obj->SEUL, $obj->TTU, $obj->Other);
 
     <div class="row">
       <?php
-      foreach ($obj->TTU as $key => $value) {
+      foreach ($members as $key => $value) {
         $img = ($value->verified)?('<img src="assets/img/badge.png" width=15% style="position:absolute;top:0px;left:0px">'):("");
                   # Medals 🥇🥈🥉🏓🔥🚙
         $medals = str_repeat("🥇", $value->cat1);
@@ -23,7 +23,7 @@ $members = array_merge($obj->SEUL, $obj->TTU, $obj->Other);
         $medals .= str_repeat("🏓", $value->balls);
         $medals .= str_repeat("🔥", $value->fire);
         $medals .= str_repeat("🚙", $value->coche);
-        echo '<div class="col-lg-6 col-md-6 col-sm-12 d-flex align-items-stretch">
+        echo '<div class="col-lg-3 col-md-6 col-sm-12 d-flex align-items-stretch">
         <div class="member" data-aos="fade-up" data-aos-delay="100">
         <div class="member-img">
         <img src="assets/img/team/'.$value->foto.'" class="img-fluid" alt="">
