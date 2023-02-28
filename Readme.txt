@@ -1,5 +1,5 @@
 Website de losManes
-© Alberto Sanchez Cuadrado 2022
+© Alberto Sanchez Cuadrado 2023
 
 Basado en el siguiente template:
   Template Name: Gp
